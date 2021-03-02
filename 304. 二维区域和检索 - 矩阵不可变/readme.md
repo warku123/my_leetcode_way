@@ -1,5 +1,7 @@
 # 304. 二维区域和检索 - 矩阵不可变
 
+https://leetcode-cn.com/problems/range-sum-query-2d-immutable/
+
 又是一道前缀和的题，但是应该是个二维前缀和。
 
 首先需要想到出来前缀和的一个计算方法，感觉就是原来小学经常做的那种容斥原理的问题。
